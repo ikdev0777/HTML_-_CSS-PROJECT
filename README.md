@@ -21,27 +21,17 @@ You can view the live project in the browser by opening `index.html`.
 
 
 
-#INSTAGRAM LOGIN CLONE 
+# INSTAGRAM LOGIN CLONE 
 
 <img width="1241" height="659" alt="image" src="https://github.com/user-attachments/assets/b19b05b3-be65-4fa8-8f3a-87062ffaa9c7" />
 
 
 
-_Add some screenshots of your project here (optional)_
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository: git clone https://github.com/ikdev0777/HTML_-_CSS-PROJECT.git
-2. Open the `index.html` file in your browser.
+## All CSS styling is written directly inside the HTML file using internal `<style>` tags (no separate CSS file is used).
 
----
-
-## 📦 File Structure
-HTML_-_CSS-PROJECT/
-├── index.html
-├── styles.css
-└── assets/ (optional images)
 
 
 ---
