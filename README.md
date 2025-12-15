@@ -3,8 +3,6 @@
 ## 📌 Project Overview
 This repository contains a **simple HTML & CSS project** that demonstrates web page structure and styling.
 
-You can view the live project in the browser by opening `index.html`.
-
 ---
 
 ## 🧰 Technologies Used
